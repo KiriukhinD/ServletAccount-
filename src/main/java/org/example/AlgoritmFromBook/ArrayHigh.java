@@ -47,8 +47,6 @@ public class ArrayHigh {
         } else return true;
     }
 
-
-
     public boolean delete(long value) {
         int j;
         for (j = 0; j < nElems; j++) {
